@@ -22,7 +22,7 @@ Your actions trigger automatic changes in neighboring boxes:
 ## Technical Stack
 - **Framework**: [Next.js](https://nextjs.org/) (App Router)
 - **Language**: TypeScript
-- **Styling**: Inline styles for precision matching of design (Shadows, Rounded Corners).
+- **Styling**: Inline styles for precision matching of design requirements (Shadows, Rounded Corners).
 
 ## Getting Started
 
@@ -30,5 +30,12 @@ First, run the development server:
 
 ```bash
 npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
